@@ -1,0 +1,11 @@
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\obj\Debug\netcoreapp2.2\NoSenseTask.csprojAssemblyReference.cache
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\obj\Debug\netcoreapp2.2\NoSenseTask.csproj.CoreCompileInputs.cache
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\obj\Debug\netcoreapp2.2\NoSenseTask.AssemblyInfoInputs.cache
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\obj\Debug\netcoreapp2.2\NoSenseTask.AssemblyInfo.cs
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\bin\Debug\netcoreapp2.2\NoSenseTask.deps.json
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\bin\Debug\netcoreapp2.2\NoSenseTask.runtimeconfig.json
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\bin\Debug\netcoreapp2.2\NoSenseTask.runtimeconfig.dev.json
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\bin\Debug\netcoreapp2.2\NoSenseTask.dll
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\bin\Debug\netcoreapp2.2\NoSenseTask.pdb
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\obj\Debug\netcoreapp2.2\NoSenseTask.dll
+C:\Users\topdo\source\repos\NoSenseTask\NoSenseTask\obj\Debug\netcoreapp2.2\NoSenseTask.pdb
